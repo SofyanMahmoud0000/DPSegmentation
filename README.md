@@ -3,7 +3,7 @@ In this repo, I have build a python project to do segmentation of words with no 
 
 
 ## An Example of the output 
-![Example](https://github.com/sofyanmahmoud0000/DPSegmentation/blob/master/Example.png)
+![Example](https://github.com/sofyanmahmoud0000/DPSegmentation/blob/master/images/Example.png)
 
 ## Author
 [Sofyan Mahmoud](https://github.com/sofyanmahmoud0000) - Computer engineer

@@ -3,4 +3,4 @@ In this repo, I have build a python project to do segmentation of words with no 
 
 
 ## Author
-[Sofyan Mahmoud]("https://github.com/sofyanmahmoud0000") - Computer engineer
+[Sofyan Mahmoud](https://github.com/sofyanmahmoud0000) - Computer engineer

@@ -5,9 +5,9 @@ In this repo, I have build a python project to do segmentation of words with no 
 * Clone the project 
 * Install python3 
 * In the (input.json) file, you will put your input, for each input you will have two keys 
-    * OriginalInput<number of input> : The original input or expected output 
+    * OriginalInput(number of input) : The original input or expected output 
         * if there is no original input -expected output- you must write the key and leave its value empty
-    * NoSpaceInput<number of the input> : the input with no space, that you want to do the segmentation on it 
+    * NoSpaceInput(number of the input) : the input with no space, that you want to do the segmentation on it 
     * Example of the outptu: 
         ![Example](https://github.com/sofyanmahmoud0000/DPSegmentation/blob/master/images/Input.png)
 * Run the file (Segmentation.py) using this command 

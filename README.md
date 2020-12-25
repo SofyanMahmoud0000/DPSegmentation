@@ -11,9 +11,9 @@ In this repo, I have build a python project to do segmentation of words with no 
     * Example of the outptu: 
         ![Example](https://github.com/sofyanmahmoud0000/DPSegmentation/blob/master/images/Input.png)
 * Run the file (Segmentation.py) using this command 
-'''shell
+```shell
 python3 segmentation.py
-''' 
+``` 
 
 * It will ask you about the number of input you want to select which you have assigned in the json file as we mentioned above 
     * Example
